@@ -1,6 +1,6 @@
 # Balancing Conservatism and Aggressiveness:Prototype-Affinity Hybrid Network for Few-Shot Segmentation, ICCV'25, Top Score(AFR = 6.00)
 
-This repository contains the code for our work "*# Balancing Conservatism and Aggressiveness:
+This repository contains the code for our work "* Balancing Conservatism and Aggressiveness:
 Prototype-Affinity Hybrid Network for Few-Shot Segmentation*", 
 where we design a plug-in network HPANet for two existing cross attention-based baselines: [SCCAN](https://github.com/Sam1224/SCCAN) and [HDMNet](https://github.com/Pbihao/HDMNet).
 
@@ -82,7 +82,7 @@ Performance comparison with the state-of-the-arts.
 ## Visualization
 
 <p align="middle">
-    <img src="figure/visualization.png">
+    <img src="figure/Visualization.png">
 </p>
 
 ## References
