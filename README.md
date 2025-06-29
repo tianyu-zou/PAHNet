@@ -45,8 +45,8 @@ We follow the lists generation as [AENet](https://github.com/Sam1224/AENet/), an
 
 ## Models
 
-- Download [exp_sccan.zip](https://entuedu-my.sharepoint.com/:u:/g/personal/qianxion001_e_ntu_edu_sg/Eeoyp3enpKRFiiAxxlyq-bsBatvlFDZx6eMLzvHgNjiG1g?e=evIuEs) to obtain SCCAN_PAHNet-related pretrained models, and extract them to `SCCAN_PAHNet/exp`.
-- Download [exp_hdmnet.zip](https://entuedu-my.sharepoint.com/:u:/g/personal/qianxion001_e_ntu_edu_sg/ERnKxHBd9o1NiG_QvWKix9gBIcELffIrIOTaHGP9lEYYSg?e=jMoBxe) to obtain HDMNet_PAHNet-related pretrained models, and extract them to `HDMNet_PAHNet/exp`.
+- Download [exp_sccan.zip](https://drive.google.com/drive/folders/1g8zJUGGMHTBBtc791a5KH-KdHyph9mXg?usp=drive_link) to obtain SCCAN_PAHNet-related pretrained models, and extract them to `SCCAN_PAHNet/exp`.
+- Download [exp_hdmnet.zip](https://drive.google.com/drive/folders/1immYMKR1IncmC9QvHD6SD4CCyOVarZ42?usp=drive_link) to obtain HDMNet_PAHNet-related pretrained models, and extract them to `HDMNet_PAHNet/exp`.
 
 ## Training and Testing Commands
 
