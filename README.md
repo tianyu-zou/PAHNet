@@ -45,6 +45,11 @@ We follow the lists generation as [AENet](https://github.com/Sam1224/AENet/), an
 
 ## Models
 
+### PASCAL Models
+- Download [exp_sccan.zip](https://drive.google.com/drive/folders/1aeTxysW9O-KiO3KeLyVJPYxoYxJoQJir?usp=sharing) to obtain SCCAN_PAHNet-related pretrained models, and extract them to `SCCAN_PAHNet/exp`.
+- Download [exp_hdmnet.zip](https://drive.google.com/drive/folders/1RJvMJlL088Idpfv5nGkAQgDe9cl9Ug27?usp=sharing) to obtain HDMNet_PAHNet-related pretrained models, and extract them to `HDMNet_PAHNet/exp`.
+
+### COCO Models
 - Download [exp_sccan.zip](https://drive.google.com/drive/folders/1g8zJUGGMHTBBtc791a5KH-KdHyph9mXg?usp=drive_link) to obtain SCCAN_PAHNet-related pretrained models, and extract them to `SCCAN_PAHNet/exp`.
 - Download [exp_hdmnet.zip](https://drive.google.com/drive/folders/1immYMKR1IncmC9QvHD6SD4CCyOVarZ42?usp=drive_link) to obtain HDMNet_PAHNet-related pretrained models, and extract them to `HDMNet_PAHNet/exp`.
 
@@ -92,3 +97,11 @@ This repo is mainly built based on [SSP](https://github.com/fanq15/SSP/) and [AE
 ## BibTeX
 
 If you find our work and this repository useful. Please consider giving a star :star: and citation &#x1F4DA;.
+```bibtex
+@inproceedings{zou2025balancing,
+  title     = {Balancing Conservatism and Aggressiveness: Prototype-Affinity Hybrid Network for Few-Shot Segmentation},
+  author    = {Zou, Tianyu and Xiong, Shengwu and Yao, Ruilin and Rong, Yi},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages     = {20561--20571},
+  year      = {2025}
+}
